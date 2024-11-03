@@ -12,6 +12,6 @@ How to download glove on google colab:
       2. Second) run the below command
       !unzip glove.6B.zip
 
-      3. Third) select the below command on your code.
+      3. Third) select the below code
       glove_file = 'glove.6B.50d.txt'
       
