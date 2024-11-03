@@ -9,4 +9,5 @@ How to download glove on google colab:
       1. First run the below command
       !wget http://nlp.stanford.edu/data/glove.6B.zip
 
+      2. Second run the below command
       !unzip glove.6B.zip
