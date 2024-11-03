@@ -8,7 +8,7 @@ Edit by: Amin Aslami https://colab.research.google.com/drive/1mLUf2uG_jRp_DozxSU
 
 Glove Embedding in Colab (YouTube): https://www.youtube.com/watch?v=HniyqWFegTg
 
-How to download glove on google colab: 
+_### How to download glove on google colab: _
 
       1. First) run the below command
       !wget http://nlp.stanford.edu/data/glove.6B.zip
