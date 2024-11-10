@@ -6,7 +6,7 @@
 
 Edit by: Amin Aslami https://colab.research.google.com/drive/1mLUf2uG_jRp_DozxSUWX2lFcPHcvkJPp#scrollTo=hRpyVMz2e4kZ
 
-Load Glove Embedding in Colab (YouTube): https://www.youtube.com/watch?v=HniyqWFegTg
+Loading Glove Embedding in Colab (YouTube): https://www.youtube.com/watch?v=HniyqWFegTg
 
 ### How to download glove on google colab:
 
